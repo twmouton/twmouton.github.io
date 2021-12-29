@@ -29,7 +29,7 @@ github_username:  twmouton
 
 # Build settings
 #theme: minima
-theme: jekyll-theme-midnight
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
 
