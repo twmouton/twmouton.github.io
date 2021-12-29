@@ -22,7 +22,7 @@ title: Thomas Mouton
 email: twmouton@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Software engineering, C++, reverse engineering, operating system internals, windows internals, compilers, and another blog where a guy pontificates into the aether.
-baseurl: "/public/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://twmouton.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ThomasMouton
 github_username:  twmouton
